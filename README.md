@@ -1,3 +1,5 @@
 # FAData
 
-This dataset may contain information such as merchant names, streamer identities, or other potentially identifiable details that were unintentionally retained during data collection and processing. To protect privacy and ensure ethical use, the dataset is provided exclusively for scientific research purposes. Users of this dataset must refrain from using the data for any commercial, promotional, or personally targeted activities, and are responsible for complying with all applicable data protection and privacy regulations when conducting their research.
+## Data Privacy Notice
+
+To comply with relevant privacy protection regulations, we have removed all sensitive information from this dataset, including user identifiers, merchant identifiers, and any other data that could be used to directly or indirectly identify individuals or commercial entities. Nevertheless, due to potential oversights during post-processing, the dataset may still contain traces of privacy-related information. As such, this dataset is provided exclusively for scientific research purposes and must not be used for any commercial, operational, or non-research activities.
